@@ -1,8 +1,6 @@
-**Problem No.:** 0  
 **Problem Name:** Longest Common Substring  
-**Problem Link:** [LeetCode 0 - Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1)
+**Problem Link:** [GeeksforGeeks - Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1)
 
-<!--### Brute Force Method-->
 
 ```java
 class Solution {
